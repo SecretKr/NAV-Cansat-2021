@@ -1,0 +1,6 @@
+sudo nano /boot/cmdline.txt
+remove
+console=serial0,115200
+
+sudo systemctl stop serial-getty@ttyS0.service
+sudo systemctl start serial-getty@ttyS0.service

@@ -1,0 +1,10 @@
+GPIO12 servo L/R
+GPIO13 servo R/L
+GPIO26 buzzer
+GPIO4  LED
+GPIO5  mon1
+GPIO6  mon2
+GPIO11 mode
+
+
+HC channel 69
