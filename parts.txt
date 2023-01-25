@@ -1,0 +1,73 @@
+(ซ้ำ)
+
+from cytron : Free shiping 
+(WH) https://th.cytron.io/c-raspberry-pi/c-raspberry-pi-power/p-raspberry-pi-zero-w (Rpi Zero w) 347.-
+https://th.cytron.io/p-straight-pin-header-male-2x20-ways (Rpi Zero pin) 5.-
+https://th.cytron.io/p-official-rpi-mini-hdmi-adapter (mini hdmi adapter) 46.- 
+https://th.cytron.io/c-servo-motor/p-mg90s-metal-gear-micro-servo (MG90s servo x3)(มีแล้ว) 105x2 =315
+https://th.cytron.io/c-raspberry-pi/c-raspberry-pi-camera/p-raspberry-pi-8mp-camera-module-v2 (raspberry pi camera v2 ) 870.-
+
+from arduitronics :
+https://www.arduitronics.com/p/4140 (HC-12 x2)(มีแล้ว) 175x2 = 250.-
+https://www.arduitronics.com/p/2619 (xh2.54 connector 2ขา female) 4.-
+https://www.arduitronics.com/p/3748 (lithium polymer 3000 mAh 11.Wh x2) 150x2 = 300.-
+https://www.arduitronics.com/p/394 (lithium polymer 450 mAh 11.Wh x2) 120x2 = 240.-
+
+from allnewstep: +70.-
+https://www.allnewstep.com/p/1525 (2x20 pin header female) 8.-
+https://www.allnewstep.com/p/2712 (1x20 pin header female x 2) 5x2=10.-
+https://www.allnewstep.com/p/2656 (xh2.54 connector 2ขา male) 2.-
+https://www.allnewstep.com/p/1648 (1x6 90 pin header female) 5.-
+https://www.allnewstep.com/p/1646 (1x4 90 pin header female) 5.-
+https://www.allnewstep.com/p/1260 (2ways switch) 3.-
+
+--------------------------------------
+(เพิ่ม)
+from cytron :
+https://th.cytron.io/p-rpi-approved-phidisk-class10-u1-microsd-32gb (micro SD 32) 282.- 
+
+from arduitronics :
+(change) https://www.arduitronics.com/product/1617 (Grove - GPS (Air530)) 550.-
+https://www.arduitronics.com/product/2079 (step down) 25.-
+(change) https://www.arduitronics.com/product/4379 (ultrasonic) 335.-
+
+from allnewstep:
+(change) https://www.allnewstep.com/product/1728 (GY-91 MPU9250 + BMP280) 200.-
+
+from rs shop: 
+https://th.rs-online.com/web/p/piezo-buzzer-components/1812642/ (buzzer) 15.-
+
+--------------------------------
+from cytron : Free shiping 
+2x https://th.cytron.io/p-raspberry-pi-zero-wh-with-header (Rpi Zero wh) 486.-
+2x https://th.cytron.io/p-straight-pin-header-male-2x20-ways (Rpi Zero pin) 5.-
+2x https://th.cytron.io/p-official-rpi-mini-hdmi-adapter (mini hdmi adapter) 46.- 
+6x https://th.cytron.io/c-servo-motor/p-mg90s-metal-gear-micro-servo (MG90s servo) 105.-
+2x https://th.cytron.io/c-raspberry-pi/c-raspberry-pi-camera/p-raspberry-pi-8mp-camera-module-v2 (raspberry pi camera v2 ) 870.-
+https://th.cytron.io/p-rpi-approved-phidisk-class10-u1-microsd-32gb (micro SD 32) 282.- 
+
+from arduitronics :+ 70.-
+https://www.arduitronics.com/p/341 (arduino micro) 375.-
+https://www.arduitronics.com/p/2053 (neo6mV2) 485.-
+2x https://www.arduitronics.com/p/4140 (HC-12) 175.-
+10x https://www.arduitronics.com/p/2619 (xh2.54 connector 2ขา female) 4.-
+4x https://www.arduitronics.com/p/3748 (lithium polymer 3000 mAh 11.Wh) 150.-
+4x https://www.arduitronics.com/p/394 (lithium polymer 450 mAh 11.Wh) 120.-
+https://www.arduitronics.com/product/1617 (Grove - GPS (Air530)) 550.-
+https://www.arduitronics.com/product/2079 (step down) 25.-
+https://www.arduitronics.com/product/4379 (ultrasonic) 335.-
+8x https://www.arduitronics.com/product/393 (charger) 25.-
+
+from allnewstep: +70.-
+https://www.allnewstep.com/p/3748  (GY-87 MPU6050+HMC5883+bmp180)265.-
+https://www.allnewstep.com/product/1728 (GY-91 MPU9250 + BMP280) 200.-
+https://www.allnewstep.com/p/34 (MPU6050) 40.-
+https://www.allnewstep.com/p/357 (LM7805) 9.- มี
+2x https://www.allnewstep.com/p/1525 (2x20 pin header female) 8.-
+10x https://www.allnewstep.com/p/2656 (xh2.54 connector 2ขา male) 2.-
+2x https://www.allnewstep.com/p/1648 (1x6 90 pin header female) 5.-
+2x https://www.allnewstep.com/p/1646 (1x4 90 pin header female) 5.-
+2x https://www.allnewstep.com/p/1260 (2ways switch) 3.-
+
+from rs shop: 
+https://th.rs-online.com/web/p/piezo-buzzer-components/1812642/ (buzzer) 15.-
